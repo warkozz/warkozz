@@ -1,15 +1,17 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Hakim Rayane Banner"/>
+<p align="center" style="margin-bottom: 30px;">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" 
+       width="100%" 
+       alt="Hakim Rayane Banner"
+       style="border-radius: 12px;"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hakim Rayane</h1>
-<h3 align="center">Software Engineer Apprentice • Web Developer • Based in Paris, France</h3>
+<h1 align="center">Hi 👋, I'm <strong>Hakim Rayane</strong></h1>
+<h3 align="center">Software Engineer Apprentice • Web Developer • Paris, France</h3>
 
 ---
 
 ## 🔹 About Me
-
 - 💼 **Software Engineer Apprentice at Capgemini** (since 2024)  
 - 🎓 **BTS SIO – SLAM** Student (Software Development Track)  
 - 🌐 Passionate about **Web Development, Software Engineering & AI R&D**  
@@ -78,7 +80,7 @@
 - Software development & maintenance  
 - Debugging & problem-solving  
 - Feature implementation & performance optimization  
-- Team collaboration (designers, devs, PMs)  
+- Team collaboration  
 - R&D work on **AI training & dataset enhancement**  
 
 ---
@@ -111,13 +113,11 @@
 
 # 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=warkozz&show_icons=true&theme=tokyonight" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=warkozz&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkozz&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warkozz&theme=tokyonight" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=warkozz&theme=tokyonight" height="200"/>
 </p>
-
----

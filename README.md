@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="A_GitHub_profile_README_banner_image_features_Haki.png" width="100%" alt="Hakim Rayane Banner"/>
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Hakim Rayane Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hakim Rayane</h1>
